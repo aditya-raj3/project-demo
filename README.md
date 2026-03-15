@@ -1,2 +1,2 @@
 # project-demo
-this demo project used for learning github
+this demo project used for learning github.
